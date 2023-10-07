@@ -1,4 +1,4 @@
-# FILMPIRE - Shubham Kadam
+# FILMPIRE - Saket Singh
 
 [View Demo](https://filmpire-ssk.netlify.app/)
 
@@ -40,7 +40,7 @@ Setup:
 1. Get a free TMDB API Key at [https://www.themoviedb.org/](https://www.themoviedb.org/).
 2. Clone the repo:
     ```sh
-    git clone https://github.com/ShubhamSKadam/filmpire-AI_Powered_Movie_App.git
+    git clone https://github.com/saket19500/Flimpire-OttApp.git
     ```
 3. Install NPM packages:
     ```sh
@@ -58,12 +58,6 @@ Setup:
     ```
 
 <!-- USAGE EXAMPLES -->
-
-## Usage
-
-_For more detailes regarding TMDB API calls, please refer to the [Documentation](https://developers.themoviedb.org/3/getting-started/introduction)._
-
-See the [open issues](https://github.com/ShubhamSKadam/filmpire-AI_Powered_Movie_App/issues) for a full list of proposed features (and known issues).
 
 ## Contributing
 Contributions are what makes the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
